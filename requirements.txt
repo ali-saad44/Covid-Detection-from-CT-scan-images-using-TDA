@@ -1,6 +1,8 @@
 torch
 numpy
+scikit-learn
 matplotlib
+seaborn
 torchvision
-timm
 giotto-tda
+joblib
